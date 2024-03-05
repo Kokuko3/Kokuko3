@@ -11,7 +11,6 @@
 ### Projects
 - In Spring 2023, I, along with a team of three other students, competed in the Wright State Hackathon, placing 3rd out of 14 teams. You can find the project here https://github.com/NicoleP23/Hackathon-Team-18.
 - Yearly attendance of Wright State's ACM coding competition.
-- Currently working towards finding a 
 - ...And anything else I can find!
 
 
