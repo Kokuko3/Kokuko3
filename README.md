@@ -24,5 +24,5 @@
     - Management of the Wright State Computer Science and Engineering Discord Server for faculty student communication
     - Management of HPC cluster utilized by research faculty and students
     - Coding tasks related to faculty research or universtiy applications
-- May 2024 - Current - Air Force Institute of Technology
+- May 2024 - August 2024 - Air Force Institute of Technology
     - Worked on a project utilizing advanced AI and Machine Learning techniques
